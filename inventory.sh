@@ -1,4 +1,3 @@
-create serverinventory.sh
-#!/in/bash
+#!/bin/bash
 #Author: Geradine
 if [ $? -eq 0 ]
